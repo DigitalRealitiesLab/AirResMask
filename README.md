@@ -5,7 +5,7 @@ The repository contains building plans for the AirRes mask described in the foll
 Markus Tatzgern, Michael Domhardt, Martin Wolf, Michael Cenger, Gerlinde Emsenhuber, Radomir Dinic, Nathalie Gerner, and Arnulf Hartl. 2022. AirRes Mask: A Precise and Robust Virtual Reality Breathing Interface Utilizing Breathing Resistance as Output Modality. In CHI Conference on Human Factors in Computing Systems (CHI ’22), April 29-May 5, 2022, New Orleans, LA, USA. ACM, New York, NY, USA, https://doi.org/10.1145/3491102.3502090
 
 The assembled mask:
-![The assembled mask](/images/airres_mask.png)
+<img src="/images/airres_mask.png" alt="Assembled Mask" width="500"/>
 
 Exploded view of mask showing components:
 ![Exploded view of mask](/images/airesmask_explosion.png)
